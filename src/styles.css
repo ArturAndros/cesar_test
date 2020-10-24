@@ -73,6 +73,7 @@ h1 {
 
 h2, p {
   color: #DADADA;
+  overflow-y: hidden;
 }
 
 h2 {
